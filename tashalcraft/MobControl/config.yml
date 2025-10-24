@@ -1,0 +1,4 @@
+worldName: "world"
+LevelSplit: 30
+EntityCountRadius: 2500
+MaxEntities: 20

@@ -1,0 +1,6 @@
+worldName: "world"
+mobsPerChunk: 30
+loopTime: 10
+
+daylength: 18000000
+daytick: 10
